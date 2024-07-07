@@ -1,8 +1,8 @@
-Proyecto COMPILADORPYTHON
+##Proyecto Compilador de Dart hecho en el lenguaje Java
 Requisitos previos
 Para ejecutar este proyecto, es necesario tener instalado Dart en tu dispositivo PC. Si no tienes Dart instalado, puedes descargarlo desde el sitio web oficial de Dart: https://dart.dev/get-dart
 
-Instalación de Dart
+##Instalación de Dart
 Descarga el instalador de Dart para tu sistema operativo (Windows, macOS o Linux) desde el sitio web oficial de Dart.
 Sigue las instrucciones de instalación para instalar Dart en tu dispositivo PC.
 Ejecutar el proyecto
