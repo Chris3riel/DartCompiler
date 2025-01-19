@@ -1,4 +1,7 @@
 ## Proyecto Compilador de Dart hecho en el lenguaje Java
+![image](https://github.com/user-attachments/assets/8c3df16e-fec9-41f8-a4e6-9ca610831f00)
+
+
 Requisitos previos
 Para ejecutar este proyecto, es necesario tener instalado Dart en tu dispositivo PC. Si no tienes Dart instalado, puedes descargarlo desde el sitio web oficial de Dart: https://dart.dev/get-dart
 
